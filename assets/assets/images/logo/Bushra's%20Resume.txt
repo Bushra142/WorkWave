@@ -1,0 +1,123 @@
+Bushra Aslam
+
+
+aslambushra142@gmail.com
+03341164854
+Lahore, Pakistan
+
+
+
+------------------------
+Professional Title
+
+
+------------------------
+I am a computer science graduate, specializing in various IT skills with a constructive attitude, responsible nature, and hard-working this put me in a situation where I deliver solutions to projects solving real-life problems. Excellent knowledge of HTML, CSS, WordPress, tools, and best practices. To obtain a professional position in an industry where I can utilize my relevant skills to innovate solutions with maximum efficiency.
+
+
+Education
+------------------------
+BS (Hons) Computer Science
+University of Management and Technology (UMT)
+2018 - 2022
+Courses
+- Object Oriented Programming 
+- Data Structure 
+- Database Management System 
+- Administrative Database management system 
+- Software Engineering 
+- Web Development 
+
+
+Intermediate (ICS)
+The knowledge Home School and College
+2018
+84%
+Courses
+
+
+Matriculation
+The Knowledge Home School and College
+2016
+86%
+Courses
+
+
+
+
+
+Work Experience
+------------------------
+Internship
+Programmers Force Pvt ltd.
+01/2022 - 02/2022
+Lahore
+Achievements/Tasks
+
+
+
+QA Engineer
+FoxTek Systems Pvt ltd.
+03/2022 - 05/2023
+Lahore
+Achievements/Tasks
+
+
+
+
+
+
+Skills
+------------------------
+-HTML
+-Bootstrap
+-CSS
+-Wordpress
+-Problem Solving
+-Elementor
+-Agile Methodology
+-Scrum Methodology
+-Dart
+-Flutter
+
+
+
+Personal Projects
+------------------------
+Textile Management System (2020)
+- In this project. I  managed all the records about the industry employees and their accounts. Also, I  managed all the raw data. The material stock of the products and show products on the official website of the industry. 
+
+
+Easy Choice Painting (2023)
+- This project is developed in WordPress by using Elementor. Easy Choice Painting  is a trusted and reputable painting company that offers a range of services to meet various painting needs. 
+
+
+Weather App
+- I have developed a weather app in Flutter using a weather package and integrated an API that fetches real-time weather information based on the device’s location and city name. In addition to this, the app provides both weekly and hourly weather forecasts. 
+
+
+Portfolio web App
+- I have built a portfolio web app in Flutter that showcases my skills, projects, and contact details in a responsive design, allowing users to explore my professional profile seamlessly across devices. 
+
+
+WorkWave
+- WorkWave is a freelancing website I developed in Flutter, where users can post jobs and track their status, while freelancers can accept jobs and provide details. It uses Firebase for both database management and hosting. 
+
+
+
+
+
+ACHIEVEMENTS
+------------------------
+ICS. Board Position Holder (2018)
+
+
+
+
+
+Training
+------------------------
+-Training with UNDP in Application Development.
+
+
+
