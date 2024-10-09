@@ -45969,7 +45969,7 @@ break
 case 1:s.bz(o.fx)
 break}r=this.ga7C()
 q=this.ga7q()
-m=A.aHu(B.f8,B.zO,p)
+m=A.aHu(B.f8,B.zN,p)
 return A.avz(p,new A.a1(r,q,r,q),B.O,new A.da(B.lV,m,p,p,p,p,B.ih),B.P,p,p)}}
 A.a_I.prototype={
 H(){return"DynamicSchemeVariant."+this.b}}
@@ -81531,7 +81531,7 @@ A.PL.prototype={
 ap(){this.aO()
 A.of(B.Dk,new A.aiB(this),t.P)},
 J(a){var s=this,r=null,q=t.w,p=A.aA(a,r,q).w,o=t.p
-return A.kQ(r,r,A.kY(B.c7,A.b([A.ec(r,A.cW(r,A.aA(a,r,q).w.a.b,p.a.a),B.t,r,B.Al,r,r,r,r,r,r,r),A.im(A.f2(A.e0(A.b([A.avD(A.b([A.aA7("Welcome to WorkWave",B.aU,B.QJ)],t.u6),!0,B.ed,!0,1),B.ag,B.El,B.ag,B.Ek,s.nZ("Bushra Aslam","assets/images/Team/Bushra.jpeg"),s.nZ("Rimsha Mehar","assets/images/Team/rimsha.jpeg"),s.nZ("Sehrish Ali","assets/images/Team/Sehrish.jpg"),s.nZ("Fatima Hassan","assets/images/Team/Fatima.jpg"),s.nZ("Faizan Ahmed","assets/images/Team/Faizan.jpg"),s.nZ("Shakirullah","assets/images/Team/Shakir.jpg")],o),B.D,B.cN,B.a5),r,r),r)],o),B.a4,B.c0),r,!1,r)},
+return A.kQ(r,r,A.kY(B.c7,A.b([A.ec(r,A.cW(r,A.aA(a,r,q).w.a.b,p.a.a),B.t,r,B.Am,r,r,r,r,r,r,r),A.im(A.f2(A.e0(A.b([A.avD(A.b([A.aA7("Welcome to WorkWave",B.aU,B.QJ)],t.u6),!0,B.ed,!0,1),B.ag,B.El,B.ag,B.Ek,s.nZ("Bushra Aslam","assets/images/Team/Bushra.jpeg"),s.nZ("Rimsha Mehar","assets/images/Team/rimsha.jpeg"),s.nZ("Sehrish Ali","assets/images/Team/Sehrish.jpg"),s.nZ("Fatima Hassan","assets/images/Team/Fatima.jpg"),s.nZ("Faizan Ahmed","assets/images/Team/Faizan.jpg"),s.nZ("Shakirullah","assets/images/Team/Shakir.jpg")],o),B.D,B.cN,B.a5),r,r),r)],o),B.a4,B.c0),r,!1,r)},
 nZ(a,b){return new A.c1(B.DN,A.e2(A.b([new A.HI(A.ry(b,B.f8,60,60),null),B.ag,A.avD(A.b([A.aA7(a,B.bz,B.QK)],t.u6),!1,B.bA,!1,1)],t.p),B.D,B.cN,B.a5),null)}}
 A.aiB.prototype={
 $0(){var s=this.a.c
@@ -81750,11 +81750,11 @@ A.oo.prototype={
 a7(){return new A.QA()}}
 A.QA.prototype={
 J(a){var s,r,q,p=null,o=t.w,n=A.aA(a,p,o).w.a.a
-o=A.ec(p,p,B.t,p,B.Am,p,A.aA(a,p,o).w.a.b,p,p,p,p,n)
+o=A.ec(p,p,B.t,p,B.An,p,A.aA(a,p,o).w.a.b,p,p,p,p,n)
 s=n<600
 r=s?80:100
 q=t.p
-r=A.b([new A.cQ(B.d1,p,p,A.ec(p,p,B.t,p,B.An,p,r,p,p,p,p,s?120:140),p)],q)
+r=A.b([new A.cQ(B.d1,p,p,A.ec(p,p,B.t,p,B.Al,p,r,p,p,p,p,s?120:140),p)],q)
 if(n>=600)B.b.S(r,A.b([new A.c1(B.eh,A.e2(A.b([A.pJ(B.T0,new A.ajR(a),p),A.pJ(B.T5,new A.ajS(a),p)],q),B.D,B.E,B.a5),p)],q))
 else B.b.S(r,A.b([new A.c1(B.eh,new A.te(new A.ajT(),B.EP,B.am,p,t.q3),p)],q))
 return A.kQ(p,p,A.kY(B.c7,A.b([o,A.e0(A.b([A.e2(r,B.D,B.eB,B.a5),B.bU,A.bW("WORKWAVE",p,p,p,B.QH,B.eT,p),B.ag,A.bW("Using advanced data analytics to\n provide freelancers with insights to\n optimize their profiles and\n project performance.",p,p,p,B.bL,B.eT,p)],q),B.D,B.E,B.a5)],q),B.a4,B.c0),p,!1,p)}}
@@ -85327,7 +85327,7 @@ B.ic=new A.wk(0,"polite")
 B.zL=new A.GU(0,"polite")
 B.id=new A.wk(1,"assertive")
 B.l8=new A.GU(1,"assertive")
-B.zO=new A.jV("assets/images/logo/client.png",null,null)
+B.zN=new A.jV("assets/images/logo/client.png",null,null)
 B.eo=A.b(s([]),t.s)
 B.i=new A.Bp(1,"downstream")
 B.ks=new A.eT(-1,-1,B.i,!1,-1,-1)
@@ -85404,19 +85404,19 @@ B.le=new A.a1(48,1/0,48,1/0)
 B.Ak=new A.a1(112,280,0,1/0)
 B.f7=new A.a1(0,500,0,1/0)
 B.ig=new A.a1(1/0,1/0,1/0,1/0)
-B.zP=new A.jV("assets/images/Team/background.jpg",null,null)
-B.f8=new A.Hf(2,"cover")
+B.zP=new A.jV("assets/images/logo/WorkWave1.png",null,null)
 B.bX=new A.rA(3,"noRepeat")
 B.bB=new A.o5(2,"medium")
-B.D1=new A.k3(B.zP,null,B.f8,0.6)
+B.D1=new A.k3(B.zP,null,null,1)
 B.aS=new A.Hi(0,"rectangle")
 B.Al=new A.da(null,B.D1,null,null,null,null,B.aS)
+B.zO=new A.jV("assets/images/Team/background.jpg",null,null)
+B.f8=new A.Hf(2,"cover")
+B.D2=new A.k3(B.zO,null,B.f8,0.6)
+B.Am=new A.da(null,B.D2,null,null,null,null,B.aS)
 B.zM=new A.jV("assets/images/background/back.PNG",null,null)
 B.D0=new A.k3(B.zM,null,B.f8,0.5)
-B.Am=new A.da(null,B.D0,null,null,null,null,B.aS)
-B.zN=new A.jV("assets/images/logo/WorkWave1.PNG",null,null)
-B.D2=new A.k3(B.zN,null,null,1)
-B.An=new A.da(null,B.D2,null,null,null,null,B.aS)
+B.An=new A.da(null,B.D0,null,null,null,null,B.aS)
 B.BK=new A.m(1006632960)
 B.JU=new A.h(0,4)
 B.Aq=new A.dG(0.5,B.f5,B.BK,B.JU,10)
